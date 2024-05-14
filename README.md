@@ -1,2 +1,2 @@
 # 223FinalProjects
-Project Example for Ranked Choice Voting and other Final Projects/Extra Credit Submission
+Project Example for Ranked Choice Voting Final Project/Extra Credit Submission
